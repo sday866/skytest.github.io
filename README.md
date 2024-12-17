@@ -1,5 +1,4 @@
-﻿# skytest.github.io
-title: "Test Site"
+title: "Snipe Test Site"
 description: "A simple, clean, and modern website"
 baseurl: ""
 url: "https://skytest.github.io"
