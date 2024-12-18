@@ -5,6 +5,17 @@ body {
     color: #ffffff;
 }
 
+header{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #1a1a1a;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
 .container {
     display: flex;
     height: 100vh;
