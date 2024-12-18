@@ -7,5 +7,5 @@ function changePhoto() {
     photoElement.src = photos[currentIndex];
 }
 
-setInterval(changePhoto, 4000); // Change photo every 4 seconds
+setInterval(changePhoto, 3000); // Change photo every 3 seconds
 
