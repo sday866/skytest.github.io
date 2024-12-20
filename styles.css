@@ -29,3 +29,21 @@ img {
     max-height: 100%;
     border-radius: 10px;
 }
+
+/* New styles for the prominent section */
+h1 {
+    font-size: 3em; /* Increase font size */
+    color: #FFD700; /* A bright color to stand out */
+    margin-bottom: 10px; /* Space below */
+}
+
+h3 {
+    font-size: 1.5em; /* Increase font size */
+    color: #E0E0E0; /* Slightly lighter for contrast */
+    margin-bottom: 15px; /* Space below */
+}
+
+p {
+    font-size: 1.2em; /* Increase font size */
+    color: #C0C0C0; /* Light color for regular text */
+}
