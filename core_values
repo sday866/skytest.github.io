@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snipe Core Values - SnipeBot</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+  <h1>SnipeBot</h1>
+    <!-- Navigation bar -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="snipe_purpose.html">Purpose</a></li>
+            <li><a href="mission_statement.html">Mission</a></li>
+            <li><a href="core_values.html">Core Values</a></li>
+        </ul>
+    </nav>
+  </header>
+    <div class="container">
+        <div class="left">
+            <h2>Snipe Core Values</h2>
+            <p>
+                What do we stand for? - Ethics, Principles, Beliefs
+            </p>
+            <ul>
+                <li><strong>Creativity and Stealth:</strong> Encourage players to use innovative and strategic approaches to gameplay.</li>
+                <li><strong>Community and Engagement:</strong> Foster meaningful connections and interactions between players, organizations, and communities.</li>
+                <li><strong>Versatility:</strong> Adapt to various environments and player preferences to keep the experience dynamic and exciting.</li>
+                <li><strong>Fair Play and Balance:</strong> Ensure rules and mechanics promote competitive and enjoyable gameplay for all participants.</li>
+                <li><strong>Innovation:</strong> Continuously explore new features and technologies, such as AI and MR, to enhance the experience.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
