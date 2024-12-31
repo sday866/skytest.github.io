@@ -7,7 +7,7 @@ body {
 
 /* Navigation bar styles */
 nav {
-    margin-top: 5px; /* Spacing below the title */
+    margin-top: 0; /* Spacing below the title */
 }
 
 nav ul {
@@ -38,6 +38,7 @@ nav ul li a: hover {
     height: 100vh;
     align-items: center;
     justify-content: center;
+    margin-top: 60px; /* Adjust this value to match the height of the header */
 }
 
 .left {
