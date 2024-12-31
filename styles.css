@@ -5,11 +5,49 @@ body {
     color: #ffffff;
 }
 
+/* Navigation bar styles */
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    z-index: 1000;
+    padding: 10px 0; /* Added padding to give height to the header */
+}
+
+nav {
+    margin-top: 5; /* Spacing below the title */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav ul li a: hover {
+    text-decoration: underline;
+}
+/*End of Nav Bar*/
+
 .container {
     display: flex;
     height: 100vh;
     align-items: center;
     justify-content: center;
+    margin-top: 100px; /* Adjust this value to match the height of the header */
 }
 
 .left {
