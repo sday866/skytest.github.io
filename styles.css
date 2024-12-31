@@ -12,10 +12,11 @@ header {
     width: 100%;
     background-color: #333;
     z-index: 1000;
+    padding: 10px 0; /* Added padding to give height to the header */
 }
 
 nav {
-    margin-top: 0; /* Spacing below the title */
+    margin-top: 5; /* Spacing below the title */
 }
 
 nav ul {
@@ -46,7 +47,7 @@ nav ul li a: hover {
     height: 100vh;
     align-items: center;
     justify-content: center;
-    margin-top: 60px; /* Adjust this value to match the height of the header */
+    margin-top: 80px; /* Adjust this value to match the height of the header */
 }
 
 .left {
